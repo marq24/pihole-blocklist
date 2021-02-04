@@ -16,3 +16,9 @@ scheduler.hbbtv.smartclip.net
 stats.hbbtv.smartclip.net
 hbbtv.superrtl.de
 p-hbbtv.superrtl.de
+cdn.digitaltext.rtl.de
+rtl-digitaltext.rtl-hbbtv.de
+wakadu-api.prod.rtl-hbbtv.de
+cdn.hbbtv.smartclip.net
+errors.hbbtv.smartclip.net
+scheduler.hbbtv.smartclip.net
