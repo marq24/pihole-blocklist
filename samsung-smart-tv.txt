@@ -1,0 +1,4 @@
+sas.samsungcloudsolution.com
+scs.samsungqbe.com
+osb-v2.samsungqbe.com
+lcprd1.samsungcloudsolution.net
