@@ -22,3 +22,4 @@ wakadu-api.prod.rtl-hbbtv.de
 cdn.hbbtv.smartclip.net
 errors.hbbtv.smartclip.net
 scheduler.hbbtv.smartclip.net
+hbbtv.sport1.de
