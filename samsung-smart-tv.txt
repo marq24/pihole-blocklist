@@ -78,7 +78,7 @@ www.samsungrm.net
 xpu.samsungelectronics.com
 cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
-tvpnlogopeu.samsungcloud.tv
+_xmpp-client._tcp.scs.samsungqbe.com
 tvpnlogopeu.samsungcloud.tv
 
 # END
