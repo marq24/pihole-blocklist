@@ -79,3 +79,6 @@ xpu.samsungelectronics.com
 cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
 tvpnlogopeu.samsungcloud.tv
+tvpnlogopeu.samsungcloud.tv
+
+# END
