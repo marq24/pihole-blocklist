@@ -26,3 +26,4 @@ hbbtv.sport1.de
 hbbtv.servustv.com
 vox-digitaltext.rtl-hbbtv.de
 _hbbtv-ait._tcp.hbbtvopapps.org
+cdn.welt-ctv.com
