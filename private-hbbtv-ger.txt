@@ -23,3 +23,6 @@ cdn.hbbtv.smartclip.net
 errors.hbbtv.smartclip.net
 scheduler.hbbtv.smartclip.net
 hbbtv.sport1.de
+hbbtv.servustv.com
+vox-digitaltext.rtl-hbbtv.de
+_hbbtv-ait._tcp.hbbtvopapps.org
