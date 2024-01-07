@@ -27,5 +27,4 @@ hbbtv.servustv.com
 vox-digitaltext.rtl-hbbtv.de
 _hbbtv-ait._tcp.hbbtvopapps.org
 cdn.welt-ctv.com
-d1itljbfuaik2i.cloudfront.net
-provisioning-use2.mgmt.aibixby.com
+cdn.tvtelemetrie.de
