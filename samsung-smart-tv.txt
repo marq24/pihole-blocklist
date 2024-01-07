@@ -87,5 +87,12 @@ img-resize-cdn-prod.samsungnyc.com
 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
 osb-auth-eusvc-v2.samsungqbe.com
 gld.push.samsungosp.co
+d1itljbfuaik2i.cloudfront.net
+provisioning-use2.mgmt.aibixby.com
+api.amazon.com
+eu.api.amazonvideo.com
+unagi-na.amazon.com
+
+
 
 # END
