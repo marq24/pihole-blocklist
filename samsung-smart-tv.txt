@@ -80,5 +80,12 @@ cdn.samsungcloudsolution.com
 cdn.samsungcloudsolution.net
 _xmpp-client._tcp.scs.samsungqbe.com
 tvpnlogopeu.samsungcloud.tv
+sastv.samsungqbe.com
+osb-apps-v2.samsungqbe.com
+api.samsungcloud.com
+img-resize-cdn-prod.samsungnyc.com
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+osb-auth-eusvc-v2.samsungqbe.com
+gld.push.samsungosp.co
 
 # END
