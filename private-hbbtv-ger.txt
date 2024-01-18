@@ -28,3 +28,9 @@ vox-digitaltext.rtl-hbbtv.de
 _hbbtv-ait._tcp.hbbtvopapps.org
 cdn.welt-ctv.com
 cdn.tvtelemetrie.de
+rtl-digitaltext.rtl-hbbtv.de
+wakadu-api.prod.rtl-hbbtv.de
+hbbtv-apps.redbutton.de
+prod-program.redbutton.de
+redbutton-adproxy-lb-prod.redbutton.de
+track.tvping.com
