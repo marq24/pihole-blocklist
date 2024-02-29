@@ -6,6 +6,8 @@ hbbtv.kabeleins.de
 hbbtv.prosieben.de
 hbbtv.qvc.de
 hbbtv.redbutton.de
+backend.redbutton.de
+longpolling.redbutton.de
 hbbtv.rtl.de
 hbbtv.rtl2.de
 hbbtv.sat1.de
