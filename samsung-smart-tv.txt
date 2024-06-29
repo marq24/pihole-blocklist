@@ -63,7 +63,6 @@ samsungqbe.com
 samsungrm.net
 sas.samsungcloudsolution.com
 sca.samsung.com
-scs.samsungqbe.com
 sso.internetat.tv
 syncplusconfig.s3.amazonaws.com
 targeted-config-test.samsungacr.com
