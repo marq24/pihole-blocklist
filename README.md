@@ -5,5 +5,5 @@
 ### How to use?
   Just add the following list to your pi-hole (group management -> Adlist).
 
-<code> https://raw.githubusercontent.com/marq24/pihole-blocklist/master/private-hbbtv-ger.txt</code>
-<code> https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt</code>
+<code>https://raw.githubusercontent.com/marq24/pihole-blocklist/master/private-hbbtv-ger.txt</code>
+<code>https://raw.githubusercontent.com/marq24/pihole-blocklist/master/samsung-smart-tv.txt</code>
