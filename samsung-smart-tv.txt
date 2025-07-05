@@ -92,6 +92,8 @@ provisioning-use2.mgmt.aibixby.com
 api.amazon.com
 eu.api.amazonvideo.com
 unagi-na.amazon.com
+gld.push.samsungosp.com
+configprd.samsungcloudsolution.net
 
 
 
