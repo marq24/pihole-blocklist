@@ -43,3 +43,10 @@ artcom-ctv.com
 www.rtl2.de
 urfcgnbx.1bliq.io
 ses.3-t.uk
+time.redbutton.de
+sp-consent-prod.redbutton.de
+consent-proxy-prod.redbutton.de
+write-consent-tracking-prod.redbutton.de
+write-device-tracking-prod.redbutton.de
+
+
